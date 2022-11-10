@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "U9legbhKDH2GUqSlJYz47SjM/ycq9bZ3050f1jnXnzc=",
+  "Source": "Client",
+  "BasePath": "_content/Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Client\\wwwroot",
+      "Source": "Client",
+      "ContentRoot": "C:\\Users\\ayose\\Documents\\Developments\\Projects\\FinalProject\\AirportAPI\\Client\\wwwroot\\",
+      "BasePath": "_content/Client",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ayose\\Documents\\Developments\\Projects\\FinalProject\\AirportAPI\\Client\\wwwroot\\lib\\jquery.js",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayose\\Documents\\Developments\\Projects\\FinalProject\\AirportAPI\\Client\\wwwroot\\",
+      "BasePath": "_content/Client",
+      "RelativePath": "lib/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\ayose\\Documents\\Developments\\Projects\\FinalProject\\AirportAPI\\Client\\wwwroot\\lib\\signalr.js",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayose\\Documents\\Developments\\Projects\\FinalProject\\AirportAPI\\Client\\wwwroot\\",
+      "BasePath": "_content/Client",
+      "RelativePath": "lib/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\signalr.js"
+    },
+    {
+      "Identity": "C:\\Users\\ayose\\Documents\\Developments\\Projects\\FinalProject\\AirportAPI\\Client\\wwwroot\\script\\airport.js",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ayose\\Documents\\Developments\\Projects\\FinalProject\\AirportAPI\\Client\\wwwroot\\",
+      "BasePath": "_content/Client",
+      "RelativePath": "script/airport.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script\\airport.js"
+    }
+  ]
+}
